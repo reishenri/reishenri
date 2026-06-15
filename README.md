@@ -26,6 +26,7 @@ Me chamo Henrique da Silva Reis, tenho 20 anos e sou estudante de Análise e Des
     style="padding-right: 10px;" 
     src="https://devicons.io/devicons/icons/java.svg" 
 />
+
 <img 
     align="left" 
     alt="Spring" 
@@ -52,6 +53,7 @@ Me chamo Henrique da Silva Reis, tenho 20 anos e sou estudante de Análise e Des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -60,6 +62,7 @@ Me chamo Henrique da Silva Reis, tenho 20 anos e sou estudante de Análise e Des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -68,6 +71,7 @@ Me chamo Henrique da Silva Reis, tenho 20 anos e sou estudante de Análise e Des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -102,16 +106,20 @@ Me chamo Henrique da Silva Reis, tenho 20 anos e sou estudante de Análise e Des
 
 <img 
     align="left" 
-    alt="GitHub Status" 
+    alt="GitHub Stats" 
     height="150" 
     style="padding-right: 12px;" 
-    src="https://github-readme-stats.vercel.app/api?username=reishenri&show_icons=true&theme=tokyonight&iclude_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=reishenri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=0" 
 />
 
 <img 
     align="left" 
-    alt="GitHub Status" 
+    alt="Top Languages" 
     height="150" 
     style="padding-right: 12px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reishenri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reishenri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&cache_seconds=0" 
 />
+
+<br/>
+<br/>
+<br/>
