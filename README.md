@@ -104,7 +104,7 @@ Me chamo Henrique da Silva Reis, tenho 20 anos e sou estudante de Análise e Des
     align="left" 
     alt="GitHub Status" 
     height="150" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://github-readme-stats.vercel.app/api?username=reishenri&show_icons=true&theme=tokyonight&iclude_all_commits=true&locale=pt-br" 
 />
 
@@ -112,6 +112,6 @@ Me chamo Henrique da Silva Reis, tenho 20 anos e sou estudante de Análise e Des
     align="left" 
     alt="GitHub Status" 
     height="150" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=reishenri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
 />
