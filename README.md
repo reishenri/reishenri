@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Henrique da Silva Reis, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou concluindo minha graduação e direcionando meus estudos para a área de desenvolvimento Back-end.
+Meu nome é Henrique da Silva Reis, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas. Tenho foco no desenvolvimento backend, com Java como minha principal tecnologia, utilizando o ecossistema Spring para construir aplicações, APIs REST e soluções voltadas à integração e ao gerenciamento de dados.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/hsilvareis">
