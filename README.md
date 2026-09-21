@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Henrique Reis
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 Meu nome é Henrique da Silva Reis, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas. Tenho foco no desenvolvimento backend, com Java como minha principal tecnologia, utilizando o ecossistema Spring para construir aplicações, APIs REST e soluções voltadas à integração e ao gerenciamento de dados.
 
