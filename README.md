@@ -109,8 +109,7 @@ Meu nome é Henrique da Silva Reis, tenho 20 anos e sou formado em Análise e De
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 12px;" 
-
-src="https://github-readme-stats.vercel.app/api?username=reishenri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=reishenri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
 />
 
 <img 
